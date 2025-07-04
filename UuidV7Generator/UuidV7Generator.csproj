@@ -7,7 +7,6 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Venkat Polur</Authors>
     <PackageId>UuidV7Generator</PackageId>
-    <Version>1.0.0</Version>
     <Description>UUID v7 generator supporting .NET Standard 2.0 and .NET 6+</Description>
     <RepositoryUrl>https://github.com/polurvenkat/UuidV7Generator</RepositoryUrl>
   </PropertyGroup>
